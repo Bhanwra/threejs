@@ -1,0 +1,23 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "Playing around w/ three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhanwra/threejs.git"
+  },
+  "author": "Karan Bhanwra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhanwra/threejs/issues"
+  },
+  "homepage": "https://github.com/Bhanwra/threejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "three": "^0.136.0"
+  }
+}
